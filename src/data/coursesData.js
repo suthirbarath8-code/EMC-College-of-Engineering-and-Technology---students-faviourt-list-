@@ -1,0 +1,80 @@
+export const coursesList = [
+  {
+    id: "fs-01",
+    title: "Full Stack Web Development",
+    category: "Software Development",
+    duration: "6 Months",
+    level: "Beginner to Advanced",
+    enrolled: "3,200+ Students",
+    rating: 4.9,
+    description: "Master React, Node.js, Express, MongoDB, and Tailwind CSS with real-time projects and industry placement support.",
+    skills: ["HTML5", "CSS3", "JavaScript", "React", "Node.js", "MongoDB"],
+    badge: "Most Popular",
+    fee: "Free for EMC Enrolled Students"
+  },
+  {
+    id: "ai-02",
+    title: "Artificial Intelligence & Data Science",
+    category: "Emerging Tech",
+    duration: "6 Months",
+    level: "Intermediate",
+    enrolled: "2,150+ Students",
+    rating: 4.8,
+    description: "Deep dive into Python, Pandas, Scikit-Learn, TensorFlow, and Large Language Models for automated engineering solutions.",
+    skills: ["Python", "Machine Learning", "Deep Learning", "NLP", "Pandas"],
+    badge: "Trending",
+    fee: "Free for EMC Enrolled Students"
+  },
+  {
+    id: "dev-03",
+    title: "Cloud Computing & DevOps Mastery",
+    category: "Infrastructure",
+    duration: "4 Months",
+    level: "Intermediate to Pro",
+    enrolled: "1,800+ Students",
+    rating: 4.9,
+    description: "Learn Docker, Kubernetes, CI/CD pipelines, AWS, and Terraform to deploy reliable scalable infrastructure.",
+    skills: ["AWS", "Docker", "Kubernetes", "CI/CD", "Linux", "Git"],
+    badge: "High Demand",
+    fee: "Free for EMC Enrolled Students"
+  },
+  {
+    id: "dsa-04",
+    title: "Master Data Structures & Algorithms",
+    category: "Interview Prep",
+    duration: "3 Months",
+    level: "All Levels",
+    enrolled: "4,500+ Students",
+    rating: 5.0,
+    description: "Solve 350+ LeetCode problems in Java and Python with detailed space-time complexity analysis for product company interviews.",
+    skills: ["Arrays", "Trees", "Graphs", "Dynamic Programming", "Recursion"],
+    badge: "Placement Core",
+    fee: "Free for EMC Enrolled Students"
+  },
+  {
+    id: "iot-05",
+    title: "Embedded Systems & IoT Engineering",
+    category: "Hardware & Electronics",
+    duration: "5 Months",
+    level: "Core Engineering",
+    enrolled: "1,200+ Students",
+    rating: 4.7,
+    description: "Program microcontrollers, ARM Cortex, Raspberry Pi, and integrate smart sensors with cloud telemetry dashboards.",
+    skills: ["Embedded C", "Microcontrollers", "RTOS", "MQTT", "Arduino"],
+    badge: "ECE / EEE Core",
+    fee: "Free for EMC Enrolled Students"
+  },
+  {
+    id: "mech-06",
+    title: "CAD/CAM & Computational Fluid Dynamics",
+    category: "Mechanical Design",
+    duration: "4 Months",
+    level: "Engineering Specialization",
+    enrolled: "950+ Students",
+    rating: 4.8,
+    description: "Hands-on industrial 3D modeling using SolidWorks, ANSYS finite element analysis, and precision robotic manufacturing.",
+    skills: ["SolidWorks", "ANSYS", "Finite Element Analysis", "CNC Programming"],
+    badge: "Mech Core",
+    fee: "Free for EMC Enrolled Students"
+  }
+];
